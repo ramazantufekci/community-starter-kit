@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+install git clone https://github.com/ramazantufekci/community-starter-kit.git 
+- [ ] Installation instructions
+- [ ] Completing essential tasks
+- [ ] Customizing and configuring
