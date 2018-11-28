@@ -1,5 +1,5 @@
 # Contributing to Team Roundup Bot
-
+Önce insan olun gerisi mühim değil :heart:
 We :heart: contributions from our community! Thank you for taking the time to review this guide and understand how we work. And please remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md).
 
 | :bulb: | :question: | :bug: |
