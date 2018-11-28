@@ -17,4 +17,11 @@ There are many ways you can help us make this project better. Every repository i
 - **bug-low-priority**: :heart:
 - **help-wanted**: :heart:
 
+
+- Learned what to do with an empty repo on GitHub ✨
+- Created a .gitignore and removed bulky binaries
+- Used GitHub Importer for the first time
+- Set your code up in a GitHub repository 🎆
+
+
 You can also help by translating documentation and reviewing open pull requests.
