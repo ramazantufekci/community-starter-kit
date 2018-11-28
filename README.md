@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot la ilgili bir uygulama örneği :)
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Bekleyip göreceğiz aga yavaş yavaş hemen olmaz.
 
 ## Getting started
 
